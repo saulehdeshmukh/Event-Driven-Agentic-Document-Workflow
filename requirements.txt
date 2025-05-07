@@ -1,0 +1,12 @@
+llama-index-core>=0.10.0
+llama-index-llms-openai>=0.1.0
+llama-index-embeddings-openai>=0.1.0
+llama-index-utils-workflow>=0.1.0
+llama-parse>=0.4.0
+llama-index-readers-whisper>=0.1.0
+
+openai>=1.10.0
+nest_asyncio
+gradio
+tqdm
+python-dotenv
